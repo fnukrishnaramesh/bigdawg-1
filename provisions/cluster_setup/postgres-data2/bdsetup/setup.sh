@@ -1,16 +1,11 @@
 #!/bin/bash
 
-# Create directory expected by the import script below. Run as root.
-mkdir -p /var/lib/postgresql/9.4/main/mimic2v26_dat
-chown postgres /var/lib/postgresql/9.4/main/mimic2v26_dat
+# Build the catalog database
 
-# Insert the first n records of the mimic dataset, create "test" database. Run as postgres.
-su postgres <<'EOF'
-whoami
-cd /var/lib/postgresql
-tar -xvf /bdsetup/mimic2_flatfiles.tar.gz --directory /var/lib/postgresql
-cd MIMIC-Importer-2.6
-./import.sh -s 0 -e 99
-psql -c "ALTER DATABASE \"MIMIC2\" RENAME TO mimic2_copy"
-psql -c "create database test owner pguser"
-EOF
+cd /bdsetup
+psql -U postgres -c "CREATE DATABASE welllogs2;"
+psql -f well_schema_ddl.sql -d welllogs2
+
+psql -U postgres -d welllogs2 -c "\copy welldata.welllogsdata FROM '/bdsetup/data/welllogsdata.csv' DELIMITER ',' CSV HEADER;"
+
+

@@ -37,20 +37,20 @@ echo "===== Building images and pushing to dockerhub ====="
 echo "===================================================="
 
 echo "==> postgres"
-docker build --rm -t bigdawg/postgres postgres/
+docker build --rm -t welllogs/postgres postgres/
 
 echo "==> scidb"
-docker build --rm -t bigdawg/scidb scidb/
+docker build --rm -t welllogs/scidb scidb/
 
 echo "==> accumulo"
-docker build --rm -t bigdawg/accumulo-base docker-builds/accumulo/
-docker build --rm -t bigdawg/accumulo accumulo/
+docker build --rm -t welllogs/accumulo-base docker-builds/accumulo/
+docker build --rm -t welllogs/accumulo accumulo/
 
 echo "==> pushing images to dockerhub"
-docker push bigdawg/postgres
-docker push bigdawg/scidb
-docker push bigdawg/accumulo-base
-docker push bigdawg/accumulo
+docker push welllogs/postgres
+docker push welllogs/scidb
+docker push welllogs/accumulo-base
+docker push welllogs/accumulo
 
 echo
 echo "================="

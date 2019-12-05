@@ -1,4 +1,4 @@
-FROM bigdawg/accumulo-base
+FROM welllogs/accumulo-base
 
 # Install octave. Needed for data loading.
 RUN yum install -y epel-release && \

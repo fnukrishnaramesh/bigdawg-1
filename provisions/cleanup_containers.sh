@@ -4,15 +4,7 @@ echo "====================================================================="
 echo "===== bigdawg-postgres-catalog: Stopping and removing container ====="
 echo "====================================================================="
 docker rm -f bigdawg-postgres-catalog
-echo
-echo "==================================================================="
-echo "===== bigdawg-postgres-data1: Stopping and removing container ====="
-echo "==================================================================="
 docker rm -f bigdawg-postgres-data1
-echo
-echo "==================================================================="
-echo "===== bigdawg-postgres-data2: Stopping and removing container ====="
-echo "==================================================================="
 docker rm -f bigdawg-postgres-data2
 echo
 echo "========================================================="

@@ -1,0 +1,218 @@
+NO 15/9-F-1 C	4/6/2016	1460	Pulled NQ rods 20 ft,  mix and pump cement 42.5lbs bags Ã— 115 bags 3 percent bentonite,  cement weighed 12.8lbs per gal,  then pulled rods 400 ft
+NO 15/9-F-1 C	4/7/2016	1480	NQ rods will not move,  water levels are inside NQ drill rods 443 ft outside 536 ft 
+NO 15/9-F-1 C	4/8/2016	1226	Setup SD 300 on hole,  got the rods to turn and then come up,  water levels are still strange,  inside NQ drill rods 443 ft outside 536 ft 
+NO 15/9-F-1 C	4/9/2016	1166	Ran video to check bottom of rods ,  Mixed and pumped 15 â€“ 94lbs bags of cement,  12.7 lbs cement mixture,  pumped wiper through rods and then pulled rods 60 ft 6/13/2016
+NO 15/9-F-1 C	4/12/2016	1200	Rods stuck again this morning,  sounder stops at 1, 164 ft,  2 ft inside rods,  WL 488 ft inside rods and 526 ft outside rods,  twisted and pulled on rods they broke about 800 ft below surface,   
+NO 15/9-F-1 C	4/14/2016	900	Tripped out 790 ft of NQ drill rods,  several of the threads are bad and many of the rods were deformed by the wrenches trying to break the joints loose,  WL 512 ft after rods pulled  
+NO 15/9-F-1 C	4/15/2016	775	Tripped out 790 ft of NQ drill rods,  several of the threads are bad and many of the rods were deformed by the wrenches trying to break the joints loose,  WL 512 ft after rods pulled  
+NO 15/9-F-1 C	5/16/2016	1000	Video,  made a copy but it is not very clear   
+NO 15/9-F-1 C	5/27/2016	846	Set piezo 1 to 846 ft,  screen from 810 to 840 ft,  tremie 11 bags 50 lb. each of 6â€“9 sand around screen top of sand at 790 ft. 
+NO 15/9-F-1 C	5/28/2016	700	Tremie at 740 ft,  mixed and pumped 33 bags of cement. Piezometer 1 water level 468 ft,  well WL at 532 ft (measured down casing).
+NO 15/9-F-1 C	5/30/2016	737	Tremie at 680 ft,  mixed and pu mped 18 bags of cement,  pulled tremie pipe up to 440 ft. Piezometer 1 at 463.91 ft,  well at approximately 524 ft (measured down casing) A6  
+NO 15/9-F-1 C	5/5/2016	494	Sounded depth at 506 ft,  ran video and only got to 494 ft,  there were occasionally cement blobs stuck between the piezometer line and the casing below 460 ft. Piezometer 1 water level at 461.93 ft. Could not get a water level outside the Piezometer 1â€”blocked.  
+NO 15/9-F-1 C	6/27/2016	40	Setup on hole approximately 30 ft from USGS 142. Drilled 12-inch to 40 ft and set 42 ft of 8-inch casing. Sealed casing,  mixed and pumped grout into annular space. 
+NO 15/9-F-1 C	6/1/2016	162	Changed out bit to 7.9-inch. Ran down hole hammer (DHH) and drilled to 162 ft. Continuous injection of water and foam with the air. Drilling went well.  
+NO 15/9-F-1 C	6/2/2016	390	Drilling okay,  lost circulation at 250 ft,  but hole stayed clean. Sullair compressor over heated at about 3pm. Weather very warm.
+NO 15/9-F-1 C	6/3/2016	560	Drilled okay,  returns came back at 490 ft and continued to total depth. Encountered a red-sand sediment layer at 553 ft that would not stop caving so stopped drilling. Pumped drill foam to try to clean the bottom of the hole for an hour at the end of the day. 
+NO 15/9-F-1 C	6/4/2016	547	Hole filled with red-sand to 547 ft. Removed DHH from hole due to sand causing problems. 
+NO 15/9-F-1 C	6/8/2016	546	Set 2.8-inch rods (NQ-size) to 545 ft for logging hole.  
+NO 15/9-F-1 C	6/9/2016	546	Ran geophysical logs through drill rodsâ€”source and gyro logs.  
+NO 15/9-F-1 C	6/10/2016	546	Removed NQ-size rods and set 1-inch pipe to 546 ft to use as a water level measuring line. Perforated the bottom 20 ft for water  level and used stainless steel in the aquifer. 
+NO 15/9-F-1 C	6/11/2016	546	Removed equipment and poured concrete pad with brass cap at surface 
+NO 15/9-F-1 C	6/12/2016	494	Poured a concrete pad with a brass cap,  locked the well box,  cleared site and removed equipment
+NO 15/9-F-1 C	7/8/2014	5	Mowed drill site and road. Pre-job safety meeting,  setup drill site drill PQ rod to 5 ft. Setup to core with mud using a diamond bit,  mud - Ph 9.5,  viscosity 30,  weight 8.7.
+NO 15/9-F-1 C	7/9/2014	23	Coring slow,  got drill mud returns,   
+NO 15/9-F-1 C	7/10/2014	49	Coring slow, pumping 12.5 gal/min and returns at 12.5 gal/min,  sand content up to 1.5.
+NO 15/9-F-1 C	7/14/2014	78	Coring slow,  lost circulation at 66 ft,  used 30 lbs of N-Seal and got returns back,  sand content at 6. 
+NO 15/9-F-1 C	7/17/2014	119	Coring slow,  setup a de-sander cone to help with cuttings in mud,  cleaned to less than 1 ft,  lost returns at 103 ft,  small sediment bed from 103 to 106 (ft) got partial returns back at 112  ft,  used 50 lbs of N-Seal and mud thickened to 35 viscosity.
+NO 15/9-F-1 C	7/21/2014	119	Tried to get returns,  used 120 lbs of N-Seal,  mud at 46 viscosity,  FMC pump had problems. 
+NO 15/9-F-1 C	7/22/2014	124	Replaced FMC pump with new one,  had to purchase hydraulic hose and fittings,  drilling slow.
+NO 15/9-F-1 C	7/23/2014	159	Drilling slow,  no returns,  hole not cleaning used 3, 000 gal of water/mud,  stuck inner barrel in bit,  broke wireline trying to retrieve it.
+NO 15/9-F-1 C	7/28/2014	199	Pulled and retrieved inner barrel,  replaced bit with a 3.8-in. PCD small cutter core bit,  fixed wireline,  took FMC pump apart and removed wood debris that was stuck in the ball seats,  cored faster but had no returns and used 4, 500 gal of fluid,  small red sand sediment layers from 186 to 193 ft. 
+NO 15/9-F-1 C	7/29/2014	285	Coring fine,  used 7, 000 gal of fluid,  mud at 28 viscosity,  using 3 or 4 bags of quick gel per 1, 000 gal,  will make a better fluid when we encounter sediment layers.  
+NO 15/9-F-1 C	7/30/2014	349	Cored lots of rubble,  lots of partial runs,  lost 318â€“326 ft,  probably sand,  used about 7, 000 gal of fluid. 
+NO 15/9-F-1 C	7/31/2014	379	Cored fine,  red cinder sand bed from 363 to 368 ft. Used about 4, 000 gal of fluid,  mixing a thinner,  lighter fluid when coring in basalts.
+NO 15/9-F-1 C	8/4/2014	419	Cored fine,  used about 7, 000 gal of fluid.   
+NO 15/9-F-1 C	8/11/2014	509	Hole clean at start of day,  50 ft of dense basalt,  coring fine,  used about 13, 000 gal of water mixing approximately 2 bags of quick gel per 1, 000 gal. 
+NO 15/9-F-1 C	8/12/2014	559	Coring fine,  mostly dense basalts,  used 11, 000 gal of fluid.
+NO 15/9-F-1 C	8/13/2014	559	Source log and gyro log through HQ drill rods,  water level 534.41 ft. 
+NO 15/9-F-1 C	8/14/2014	60	Setup SD 300,  set 10-in. casing to 3 ft. Drilled 8-in. hole with a DHH to 60 ft.  
+NO 15/9-F-1 C	8/18/2014	340	Reaming hole,  using a little foam cuttings return occasionally  
+NO 15/9-F-1 C	8/19/2014	506	Ream hole to depth,  had returns at bottom and used some foam to clean hole,  tripped out.  
+NO 15/9-F-1 C	8/20/2014	506	Set 6-in. casing to 506 ft.  
+NO 15/9-F-1 C	8/21/2014	588	Tripped out clean bit,  tripped in core to 588 ft,  sediment stopped  about 570 ft,  and used about 12, 000 gal of drilling mud. 
+NO 15/9-F-1 C	8/25/2014	568	Switched to CS 1500 rig,  tripped in and cored to 568 ft,  all of which was sediment,  plugged bit when started second run,  WL at start of day 530.87 ft.  
+NO 15/9-F-1 C	8/26/2014	557	Cleaned out inside of 6-in. casing,  it dropped about 2-in. and set on basalt drilled with a 6-in. tri-cone to 557 ft and tripped out. 
+NO 15/9-F-1 C	8/27/2014	608	Coring slow,  bit jumping due to lack of hole stabilization,  used about 12, 000 gal drilling mud. 
+NO 15/9-F-1 C	9/2/2014	618	Coring slow, bit still having problems with stability used about 10, 000 gal of fluid.
+NO 15/9-F-1 C	9/3/2014	658	Coring smoother,  used 12, 000 gal of mud.   
+NO 15/9-F-1 C	9/8/2014	678	Cored okay at first,  sand at 671â€“674 ft when pulled core the barrel was covered in a red sand we had not drilled through since 560 ft. When started back to coring the torque was high and after a couple of minutes. When I tried to pull up off bottom the bit and stuck at 664 ft,  used about 10, 000 gal of mud,  made some 50 viscosity mud to try to clean better still not cleaning.  
+NO 15/9-F-1 C	9/9/2014	678	Used 15, 000 gal of drilling fluid of various viscosity,  and make up and injection rates trying to free rods.  
+NO 15/9-F-1 C	9/10/2014	678	Injected 12, 000 gal of fluid in hole, still stuck,  hole will take 250 gal/min. 
+NO 15/9-F-1 C	9/11/2014	678	Tried air and foam still nothing,  measured bottom of hole at 678 ft and bottom of H rods at 664  ft,  tripped in 1-in. tremie pipe to 672 ft,  placed 12 gal of cement grout in hole,  tripped out tremie.  
+NO 15/9-F-1 C	9/15/2014	665	Measured bottom at 665 ft,  pumped water hole takes 10 gal/min at 300 psi still would not free bit,  started working on getting drill rods to over drill with a 5-in. bit  
+NO 15/9-F-1 C	9/16/2014	600	Tripped drill rods to 560 ft drilled with a 36 sec viscosity to 600 ft seems to be going okay  
+NO 15/9-F-1 C	9/17/2014	640	Reaming okay   
+NO 15/9-F-1 C	9/22/2014	650	Bought more drilling mud,  reaming okay   
+NO 15/9-F-1 C	9/23/2014	662	Reamed to bottom of H rods,  tried to pull H rods with 2-in. pipe,  could not get it,  went and got a taper tap fishing tool and still could not get rods out of hole  
+NO 15/9-F-1 C	9/24/2014	664	Drilled 5-in. hole deeper HQ rods still stuck 
+NO 15/9-F-1 C	9/25/2014	664	Drilled P rods to 667ft,  had HQ rods fall to 668 ft,  used taper tap to grab H rods and pulled out of hole,  lifted P rods to 540 ft for the weekend. 
+NO 15/9-F-1 C	9/29/2014	651	Video hole,  still dirty water could not see anything,  set PQ rods to 651 ft  
+NO 15/9-F-1 C	9/30/2014	651	Run geophysical logs,  9057,  0024  
+NO 15/9-F-1 C	10/1/2014	512	Pumped through tremie line set at 650 ft,  128 bags of cement grout,  did it in 4 batches of about 30 bag per batch,  did not see any pressure from lifting the grout up the hole until the last  batch  
+NO 15/9-F-1 C	11/5/2014	512	 Set back up on hole  
+NO 15/9-F-1 C	11/6/2014	550	Drill through cement using 3.9-in. tri-cone,  about 30 gal/min water,  returns coming to surface  
+NO 15/9-F-1 C	11/12/2014	620	Everything frozen at drill site,  drilled 20 ft with 3, 000 gal of water,  drill head froze to derrick and did not want to drill  
+NO 15/9-F-1 C	11/13/2014	677	Drilled okay,  used 7, 000 gal of water,  still getting most of the returns had a 5 ft pocket of sand in the cement at 667â€“672 ft  
+NO 15/9-F-1 C	11/18/2014	677	Remove equipment off well site,  left water tanks on site measured  water level at 530.88 ft below top of 6-in. casing 
+NO 15/9-F-1 C	3/10/2015	677	Start moving equipment back onto drill site 
+NO 15/9-F-1 C	3/17/2015	698	Coring ok lost returns almost immediately after drilling below the cement plug,  used 6, 000 gal of drilling fluid 
+NO 15/9-F-1 C	3/18/2015	728	Cored okay no returns,  cemented with 10 bags cement 1 bag casing seal at end of day 
+NO 15/9-F-1 C	3/25/2015	680	Cement level at 650 ft drilled cement to 680 ft,  good returns had clean mud returning to top after flushing at end of day,  lifted bit to 650 ft. 
+NO 15/9-F-1 C	3/26/2015	650	Bit stuck when started in morning never moved can pump fluid as fast as pumps capable (about 100 gal/min) at 150 psi. 
+NO 15/9-F-1 C	3/30/2015	580	Setup and started over drilling the HQ with 5-in. and PQ rods,  have good circulation
+NO 15/9-F-1 C	3/31/2015	620	Drilling okay,  losing about 20 gal/min of fluid to formation 
+NO 15/9-F-1 C	4/1/2015	650	At 650 ft heard the HQ rods fall down hole,  stopped PQ hole,  made sure HQ was free,  tripped out PQ rods and then pulled the HQ rods up to 480 ft. 
+NO 15/9-F-1 C	4/7/2015	700	Tripped in would not drill,  high mud pressure,  tripped out and clean cement out of bit face
+NO 15/9-F-1 C	4/8/2015	710	Coring cement slow lost returns,  cement not going in barrel   
+NO 15/9-F-1 C	4/9/2015	719	Slow,  no circulation high pressures on pump 
+NO 15/9-F-1 C	4/13/2015	739	Slow finally got back to rock,  hit sediment layer(red sand) at 737 ft 
+NO 15/9-F-1 C	4/14/2015	769	Stayed in sand all day very poor core recovery,  got circulation back Depth (feet) Notes of daily activity  
+NO 15/9-F-1 C	4/15/2015	774	Replaced seal on 118 pump and gaskets on bean pump,  still in sand 40 percent recovery
+NO 15/9-F-1 C	4/16/2015	789	Cored to 789 ft had good recovery 90percent today used plastic finger catchers with the core lifters,  sediment layer ended at 787 ft,  back to basalt
+NO 15/9-F-1 C	4/20/2015	809	Cored to 809 ft,  good recovery basalt from 787â€“803 (ft),  then a silt and sand sediment started at 803 ft. Hole seems to be staying open and cleaning well 
+NO 15/9-F-1 C	4/21/2015	829	Silt sediment layer ended at 811 ft basalt 811â€“830 (ft),  hole staying clean coring slow 
+NO 15/9-F-1 C	4/22/2015	844	Cored 1 ft of basalt then encountered another sediment zone layered with sand and silt at 830 ft,  higher mud pressures worried hole not cleaning as well,  
+NO 15/9-F-1 C	4/23/2015	844	Bit was partially plugged when started in morning,  promptly plugged it tight when touched bottom of hole. Could not get inner barrel to extract,  so we tripped the rods and bit out of hole.  Cleaned clay out of the bit ports and around the face,  swabbed the inside of the core barrel and removed lots of cuttings stuck inside the barrel.  
+NO 15/9-F-1 C	4/28/2015	839	Tripped in hole collapsed at 740 ft,  spent the day re-drilling the hole. Got circulation to surface for a while,  pumping about 30â€“35 gal/min had returns of 5â€“20 gal/min for a couple of ours. Used 7, 000 gal of new mud plus the returns. Mud mixture for the day was for each mixing tank 64 oz of Soda Ash,  6 bags Super Gel X,  2 lbs Real-Pak,  16 oz of Easy Mud Plus and 32 oz of Clay Cutter. Viscosity averaged 36 secs,  Used 160 lbs of N-seal.  
+NO 15/9-F-1 C	4/29/2015	839	Geophysical logs collected. Removed drill rods from USGS 142  
+NO 15/9-F-1 C	5/5/2015	840	Set 1-in. galvanized pipe to 840 ft,  40 pieces of 21 ft pipe. Pump 150 gal of water through pipe while lowering the last 21 ft. Started moving equipment off well site.   
+NO 15/9-F-1 C	9/9/2015	840	Removed temperature probe. Pulled 1-in. galvanized pipe used to hold temperature line. 
+NO 15/9-F-1 C	9/29/2015	NA	Western Region Drill Crew setup on holeâ€”Western Region drilled 13 days,  running 2â€“12 hour shifts per day. Drill crew mobilized equipment and setup to drill on USGS 142. Some drill notes missing,  included what was provided by Western Region.   
+NO 15/9-F-1 C	9/30/2015	840	Reamed hole to 5.9 in. to prepare hole for coring. Hauling water for drilling from CFA.  
+NO 15/9-F-1 C	10/1/2015	850	Conditioned hole with mud before starting to core (94 mm core system).  
+NO 15/9-F-1 C	10/2/2015	921	Cored,  plugged bit. Changed out core barrels to get sediment out. Started coring again,  but system plugged up. Had to remove drill pipe to clean. Lots of problems getting the barrel system to work. 10/4/2015
+NO 15/9-F-1 C	10/3/2015	1077	Having rig problems,  running lots of mud and ran out of water. Running into sand that is causing problems with core system. 
+NO 15/9-F-1 C	10/3/2015	1560	Coring going betterâ€”24 hours 2 shifts 10/10/2015
+NO 15/9-F-1 C	10/4/2015	1780	Coring going betterâ€”24 hours 2 shifts 
+NO 15/9-F-1 C	10/5/2015	1159	Coring went better,  ran into problems toward the bottom.
+NO 15/9-F-1 C	10/6/2015	1159	Rig maintenance and hauling water for drilling.
+NO 15/9-F-1 C	10/7/2015	1221	Coring,  ran out of drilling mud. Running mud viscosity around 40. 
+NO 15/9-F-1 C	10/8/2015	1361	Coring going betterâ€”24 hours 2 shifts  
+NO 15/9-F-1 C	10/11/2015	1880	Lost 10 ft of corehole at bottom. Stopped coring at end of shift,  just past projected depth. 
+NO 15/9-F-1 C	10/12/2015	1880	Geophysical logs collected through pipe,  rods on bottom of hole 
+NO 15/9-F-1 C	10/13/2015	1880	Set NQ rods to 1, 596 ft and set 1.25-in. stainless steel pipe to 620 ft.
+NO 15/9-F-1 C	10/15/2015	1880	Cleaned drill site and removed some equipment
+NO 15/9-F-1 C	11/18/2015	1880	Set NQ rods to 1, 866 ft,  poured 100 gal of water down NQ rods to clean and flush pipe. 
+NO 15/9-F-1 C	11/23/2015	1880	Geophysical loggingâ€”Source and temperature logs  
+NO 15/9-F-1 C	11/24/2015	1880	Poured 275 gal down NQ rods WL before adding water was 447.16 ft after water 437.90 ftâ€”30 minutes later at 439.30 ft. Water level had been around 531 ft when well was 840 ft deep
+NO 15/9-F-1 C	5/31/2016	1880	Temperature log inside NQ rods to 1, 855 ft 
+NO 15/9-F-14 H	4/6/2016	1460	Pulled NQ rods 20 ft,  mix and pump cement 42.5lbs bags Ã— 115 bags 3 percent bentonite,  cement weighed 12.8lbs per gal,  then pulled rods 400 ft
+NO 15/9-F-14 H	4/7/2016	1480	NQ rods will not move,  water levels are inside NQ drill rods 443 ft outside 536 ft 
+NO 15/9-F-14 H	4/8/2016	1226	Setup SD 300 on hole,  got the rods to turn and then come up,  water levels are still strange,  inside NQ drill rods 443 ft outside 536 ft 
+NO 15/9-F-14 H	4/9/2016	1166	Ran video to check bottom of rods ,  Mixed and pumped 15 â€“ 94lbs bags of cement,  12.7 lbs cement mixture,  pumped wiper through rods and then pulled rods 60 ft 6/13/2016
+NO 15/9-F-14 H	4/12/2016	1200	Rods stuck again this morning,  sounder stops at 1, 164 ft,  2 ft inside rods,  WL 488 ft inside rods and 526 ft outside rods,  twisted and pulled on rods they broke about 800 ft below surface,   
+NO 15/9-F-14 H	4/14/2016	900	Tripped out 790 ft of NQ drill rods,  several of the threads are bad and many of the rods were deformed by the wrenches trying to break the joints loose,  WL 512 ft after rods pulled  
+NO 15/9-F-14 H	4/15/2016	775	Tripped out 790 ft of NQ drill rods,  several of the threads are bad and many of the rods were deformed by the wrenches trying to break the joints loose,  WL 512 ft after rods pulled  
+NO 15/9-F-14 H	5/16/2016	1000	Video,  made a copy but it is not very clear   
+NO 15/9-F-14 H	5/27/2016	846	Set piezo 1 to 846 ft,  screen from 810 to 840 ft,  tremie 11 bags 50 lb. each of 6â€“9 sand around screen top of sand at 790 ft. 
+NO 15/9-F-14 H	5/28/2016	700	Tremie at 740 ft,  mixed and pumped 33 bags of cement. Piezometer 1 water level 468 ft,  well WL at 532 ft (measured down casing).
+NO 15/9-F-14 H	5/30/2016	737	Tremie at 680 ft,  mixed and pu mped 18 bags of cement,  pulled tremie pipe up to 440 ft. Piezometer 1 at 463.91 ft,  well at approximately 524 ft (measured down casing) A6  
+NO 15/9-F-14 H	5/5/2016	494	Sounded depth at 506 ft,  ran video and only got to 494 ft,  there were occasionally cement blobs stuck between the piezometer line and the casing below 460 ft. Piezometer 1 water level at 461.93 ft. Could not get a water level outside the Piezometer 1â€”blocked.  
+NO 15/9-F-14 H	6/27/2016	40	Setup on hole approximately 30 ft from USGS 142. Drilled 12-inch to 40 ft and set 42 ft of 8-inch casing. Sealed casing,  mixed and pumped grout into annular space. 
+NO 15/9-F-14 H	6/1/2016	162	Changed out bit to 7.9-inch. Ran down hole hammer (DHH) and drilled to 162 ft. Continuous injection of water and foam with the air. Drilling went well.  
+NO 15/9-F-14 H	6/2/2016	390	Drilling okay,  lost circulation at 250 ft,  but hole stayed clean. Sullair compressor over heated at about 3pm. Weather very warm.
+NO 15/9-F-14 H	6/3/2016	560	Drilled okay,  returns came back at 490 ft and continued to total depth. Encountered a red-sand sediment layer at 553 ft that would not stop caving so stopped drilling. Pumped drill foam to try to clean the bottom of the hole for an hour at the end of the day. 
+NO 15/9-F-14 H	6/4/2016	547	Hole filled with red-sand to 547 ft. Removed DHH from hole due to sand causing problems. 
+NO 15/9-F-14 H	6/8/2016	546	Set 2.8-inch rods (NQ-size) to 545 ft for logging hole.  
+NO 15/9-F-14 H	6/9/2016	546	Ran geophysical logs through drill rodsâ€”source and gyro logs.  
+NO 15/9-F-14 H	6/10/2016	546	Removed NQ-size rods and set 1-inch pipe to 546 ft to use as a water level measuring line. Perforated the bottom 20 ft for water  level and used stainless steel in the aquifer. 
+NO 15/9-F-14 H	6/11/2016	546	Removed equipment and poured concrete pad with brass cap at surface 
+NO 15/9-F-14 H	6/12/2016	494	Poured a concrete pad with a brass cap,  locked the well box,  cleared site and removed equipment
+NO 15/9-F-14 H	7/8/2014	5	Mowed drill site and road. Pre-job safety meeting,  setup drill site drill PQ rod to 5 ft. Setup to core with mud using a diamond bit,  mud - Ph 9.5,  viscosity 30,  weight 8.7.
+NO 15/9-F-14 H	7/9/2014	23	Coring slow,  got drill mud returns,   
+NO 15/9-F-14 H	7/10/2014	49	Coring slow, pumping 12.5 gal/min and returns at 12.5 gal/min,  sand content up to 1.5.
+NO 15/9-F-14 H	7/14/2014	78	Coring slow,  lost circulation at 66 ft,  used 30 lbs of N-Seal and got returns back,  sand content at 6. 
+NO 15/9-F-14 H	7/17/2014	119	Coring slow,  setup a de-sander cone to help with cuttings in mud,  cleaned to less than 1 ft,  lost returns at 103 ft,  small sediment bed from 103 to 106 (ft) got partial returns back at 112  ft,  used 50 lbs of N-Seal and mud thickened to 35 viscosity.
+NO 15/9-F-14 H	7/21/2014	119	Tried to get returns,  used 120 lbs of N-Seal,  mud at 46 viscosity,  FMC pump had problems. 
+NO 15/9-F-14 H	7/22/2014	124	Replaced FMC pump with new one,  had to purchase hydraulic hose and fittings,  drilling slow.
+NO 15/9-F-14 H	7/23/2014	159	Drilling slow,  no returns,  hole not cleaning used 3, 000 gal of water/mud,  stuck inner barrel in bit,  broke wireline trying to retrieve it.
+NO 15/9-F-14 H	7/28/2014	199	Pulled and retrieved inner barrel,  replaced bit with a 3.8-in. PCD small cutter core bit,  fixed wireline,  took FMC pump apart and removed wood debris that was stuck in the ball seats,  cored faster but had no returns and used 4, 500 gal of fluid,  small red sand sediment layers from 186 to 193 ft. 
+NO 15/9-F-14 H	7/29/2014	285	Coring fine,  used 7, 000 gal of fluid,  mud at 28 viscosity,  using 3 or 4 bags of quick gel per 1, 000 gal,  will make a better fluid when we encounter sediment layers.  
+NO 15/9-F-14 H	7/30/2014	349	Cored lots of rubble,  lots of partial runs,  lost 318â€“326 ft,  probably sand,  used about 7, 000 gal of fluid. 
+NO 15/9-F-14 H	7/31/2014	379	Cored fine,  red cinder sand bed from 363 to 368 ft. Used about 4, 000 gal of fluid,  mixing a thinner,  lighter fluid when coring in basalts.
+NO 15/9-F-14 H	8/4/2014	419	Cored fine,  used about 7, 000 gal of fluid.   
+NO 15/9-F-14 H	8/11/2014	509	Hole clean at start of day,  50 ft of dense basalt,  coring fine,  used about 13, 000 gal of water mixing approximately 2 bags of quick gel per 1, 000 gal. 
+NO 15/9-F-14 H	8/12/2014	559	Coring fine,  mostly dense basalts,  used 11, 000 gal of fluid.
+NO 15/9-F-14 H	8/13/2014	559	Source log and gyro log through HQ drill rods,  water level 534.41 ft. 
+NO 15/9-F-14 H	8/14/2014	60	Setup SD 300,  set 10-in. casing to 3 ft. Drilled 8-in. hole with a DHH to 60 ft.  
+NO 15/9-F-14 H	8/18/2014	340	Reaming hole,  using a little foam cuttings return occasionally  
+NO 15/9-F-14 H	8/19/2014	506	Ream hole to depth,  had returns at bottom and used some foam to clean hole,  tripped out.  
+NO 15/9-F-14 H	8/20/2014	506	Set 6-in. casing to 506 ft.  
+NO 15/9-F-14 H	8/21/2014	588	Tripped out clean bit,  tripped in core to 588 ft,  sediment stopped  about 570 ft,  and used about 12, 000 gal of drilling mud. 
+NO 15/9-F-14 H	8/25/2014	568	Switched to CS 1500 rig,  tripped in and cored to 568 ft,  all of which was sediment,  plugged bit when started second run,  WL at start of day 530.87 ft.  
+NO 15/9-F-14 H	8/26/2014	557	Cleaned out inside of 6-in. casing,  it dropped about 2-in. and set on basalt drilled with a 6-in. tri-cone to 557 ft and tripped out. 
+NO 15/9-F-14 H	8/27/2014	608	Coring slow,  bit jumping due to lack of hole stabilization,  used about 12, 000 gal drilling mud. 
+NO 15/9-F-14 H	9/2/2014	618	Coring slow, bit still having problems with stability used about 10, 000 gal of fluid.
+NO 15/9-F-14 H	9/3/2014	658	Coring smoother,  used 12, 000 gal of mud.   
+NO 15/9-F-14 H	9/8/2014	678	Cored okay at first,  sand at 671â€“674 ft when pulled core the barrel was covered in a red sand we had not drilled through since 560 ft. When started back to coring the torque was high and after a couple of minutes. When I tried to pull up off bottom the bit and stuck at 664 ft,  used about 10, 000 gal of mud,  made some 50 viscosity mud to try to clean better still not cleaning.  
+NO 15/9-F-14 H	9/9/2014	678	Used 15, 000 gal of drilling fluid of various viscosity,  and make up and injection rates trying to free rods.  
+NO 15/9-F-14 H	9/10/2014	678	Injected 12, 000 gal of fluid in hole, still stuck,  hole will take 250 gal/min. 
+NO 15/9-F-14 H	9/11/2014	678	Tried air and foam still nothing,  measured bottom of hole at 678 ft and bottom of H rods at 664  ft,  tripped in 1-in. tremie pipe to 672 ft,  placed 12 gal of cement grout in hole,  tripped out tremie.  
+NO 15/9-F-14 H	9/15/2014	665	Measured bottom at 665 ft,  pumped water hole takes 10 gal/min at 300 psi still would not free bit,  started working on getting drill rods to over drill with a 5-in. bit  
+NO 15/9-F-14 H	9/16/2014	600	Tripped drill rods to 560 ft drilled with a 36 sec viscosity to 600 ft seems to be going okay  
+NO 15/9-F-14 H	9/17/2014	640	Reaming okay   
+NO 15/9-F-14 H	9/22/2014	650	Bought more drilling mud,  reaming okay   
+NO 15/9-F-14 H	9/23/2014	662	Reamed to bottom of H rods,  tried to pull H rods with 2-in. pipe,  could not get it,  went and got a taper tap fishing tool and still could not get rods out of hole  
+NO 15/9-F-14 H	9/24/2014	664	Drilled 5-in. hole deeper HQ rods still stuck 
+NO 15/9-F-14 H	9/25/2014	664	Drilled P rods to 667ft,  had HQ rods fall to 668 ft,  used taper tap to grab H rods and pulled out of hole,  lifted P rods to 540 ft for the weekend. 
+NO 15/9-F-14 H	9/29/2014	651	Video hole,  still dirty water could not see anything,  set PQ rods to 651 ft  
+NO 15/9-F-14 H	9/30/2014	651	Run geophysical logs,  9057,  0024  
+NO 15/9-F-14 H	10/1/2014	512	Pumped through tremie line set at 650 ft,  128 bags of cement grout,  did it in 4 batches of about 30 bag per batch,  did not see any pressure from lifting the grout up the hole until the last  batch  
+NO 15/9-F-14 H	11/5/2014	512	 Set back up on hole  
+NO 15/9-F-14 H	11/6/2014	550	Drill through cement using 3.9-in. tri-cone,  about 30 gal/min water,  returns coming to surface  
+NO 15/9-F-14 H	11/12/2014	620	Everything frozen at drill site,  drilled 20 ft with 3, 000 gal of water,  drill head froze to derrick and did not want to drill  
+NO 15/9-F-14 H	11/13/2014	677	Drilled okay,  used 7, 000 gal of water,  still getting most of the returns had a 5 ft pocket of sand in the cement at 667â€“672 ft  
+NO 15/9-F-14 H	11/18/2014	677	Remove equipment off well site,  left water tanks on site measured  water level at 530.88 ft below top of 6-in. casing 
+NO 15/9-F-14 H	3/10/2015	677	Start moving equipment back onto drill site 
+NO 15/9-F-14 H	3/17/2015	698	Coring ok lost returns almost immediately after drilling below the cement plug,  used 6, 000 gal of drilling fluid 
+NO 15/9-F-14 H	3/18/2015	728	Cored okay no returns,  cemented with 10 bags cement 1 bag casing seal at end of day 
+NO 15/9-F-14 H	3/25/2015	680	Cement level at 650 ft drilled cement to 680 ft,  good returns had clean mud returning to top after flushing at end of day,  lifted bit to 650 ft. 
+NO 15/9-F-14 H	3/26/2015	650	Bit stuck when started in morning never moved can pump fluid as fast as pumps capable (about 100 gal/min) at 150 psi. 
+NO 15/9-F-14 H	3/30/2015	580	Setup and started over drilling the HQ with 5-in. and PQ rods,  have good circulation
+NO 15/9-F-14 H	3/31/2015	620	Drilling okay,  losing about 20 gal/min of fluid to formation 
+NO 15/9-F-14 H	4/1/2015	650	At 650 ft heard the HQ rods fall down hole,  stopped PQ hole,  made sure HQ was free,  tripped out PQ rods and then pulled the HQ rods up to 480 ft. 
+NO 15/9-F-14 H	4/7/2015	700	Tripped in would not drill,  high mud pressure,  tripped out and clean cement out of bit face
+NO 15/9-F-14 H	4/8/2015	710	Coring cement slow lost returns,  cement not going in barrel   
+NO 15/9-F-14 H	4/9/2015	719	Slow,  no circulation high pressures on pump 
+NO 15/9-F-14 H	4/13/2015	739	Slow finally got back to rock,  hit sediment layer(red sand) at 737 ft 
+NO 15/9-F-14 H	4/14/2015	769	Stayed in sand all day very poor core recovery,  got circulation back Depth (feet) Notes of daily activity  
+NO 15/9-F-14 H	4/15/2015	774	Replaced seal on 118 pump and gaskets on bean pump,  still in sand 40 percent recovery
+NO 15/9-F-14 H	4/16/2015	789	Cored to 789 ft had good recovery 90percent today used plastic finger catchers with the core lifters,  sediment layer ended at 787 ft,  back to basalt
+NO 15/9-F-14 H	4/20/2015	809	Cored to 809 ft,  good recovery basalt from 787â€“803 (ft),  then a silt and sand sediment started at 803 ft. Hole seems to be staying open and cleaning well 
+NO 15/9-F-14 H	4/21/2015	829	Silt sediment layer ended at 811 ft basalt 811â€“830 (ft),  hole staying clean coring slow 
+NO 15/9-F-14 H	4/22/2015	844	Cored 1 ft of basalt then encountered another sediment zone layered with sand and silt at 830 ft,  higher mud pressures worried hole not cleaning as well,  
+NO 15/9-F-14 H	4/23/2015	844	Bit was partially plugged when started in morning,  promptly plugged it tight when touched bottom of hole. Could not get inner barrel to extract,  so we tripped the rods and bit out of hole.  Cleaned clay out of the bit ports and around the face,  swabbed the inside of the core barrel and removed lots of cuttings stuck inside the barrel.  
+NO 15/9-F-14 H	4/28/2015	839	Tripped in hole collapsed at 740 ft,  spent the day re-drilling the hole. Got circulation to surface for a while,  pumping about 30â€“35 gal/min had returns of 5â€“20 gal/min for a couple of ours. Used 7, 000 gal of new mud plus the returns. Mud mixture for the day was for each mixing tank 64 oz of Soda Ash,  6 bags Super Gel X,  2 lbs Real-Pak,  16 oz of Easy Mud Plus and 32 oz of Clay Cutter. Viscosity averaged 36 secs,  Used 160 lbs of N-seal.  
+NO 15/9-F-14 H	4/29/2015	839	Geophysical logs collected. Removed drill rods from USGS 142  
+NO 15/9-F-14 H	5/5/2015	840	Set 1-in. galvanized pipe to 840 ft,  40 pieces of 21 ft pipe. Pump 150 gal of water through pipe while lowering the last 21 ft. Started moving equipment off well site.   
+NO 15/9-F-14 H	9/9/2015	840	Removed temperature probe. Pulled 1-in. galvanized pipe used to hold temperature line. 
+NO 15/9-F-14 H	9/29/2015	NA	Western Region Drill Crew setup on holeâ€”Western Region drilled 13 days,  running 2â€“12 hour shifts per day. Drill crew mobilized equipment and setup to drill on USGS 142. Some drill notes missing,  included what was provided by Western Region.   
+NO 15/9-F-14 H	9/30/2015	840	Reamed hole to 5.9 in. to prepare hole for coring. Hauling water for drilling from CFA.  
+NO 15/9-F-14 H	10/1/2015	850	Conditioned hole with mud before starting to core (94 mm core system).  
+NO 15/9-F-14 H	10/2/2015	921	Cored,  plugged bit. Changed out core barrels to get sediment out. Started coring again,  but system plugged up. Had to remove drill pipe to clean. Lots of problems getting the barrel system to work. 10/4/2015
+NO 15/9-F-14 H	10/3/2015	1077	Having rig problems,  running lots of mud and ran out of water. Running into sand that is causing problems with core system. 
+NO 15/9-F-14 H	10/3/2015	1560	Coring going betterâ€”24 hours 2 shifts 10/10/2015
+NO 15/9-F-14 H	10/4/2015	1780	Coring going betterâ€”24 hours 2 shifts 
+NO 15/9-F-14 H	10/5/2015	1159	Coring went better,  ran into problems toward the bottom.
+NO 15/9-F-14 H	10/6/2015	1159	Rig maintenance and hauling water for drilling.
+NO 15/9-F-14 H	10/7/2015	1221	Coring,  ran out of drilling mud. Running mud viscosity around 40. 
+NO 15/9-F-14 H	10/8/2015	1361	Coring going betterâ€”24 hours 2 shifts  
+NO 15/9-F-14 H	10/11/2015	1880	Lost 10 ft of corehole at bottom. Stopped coring at end of shift,  just past projected depth. 
+NO 15/9-F-14 H	10/12/2015	1880	Geophysical logs collected through pipe,  rods on bottom of hole 
+NO 15/9-F-14 H	10/13/2015	1880	Set NQ rods to 1, 596 ft and set 1.25-in. stainless steel pipe to 620 ft.
+NO 15/9-F-14 H	10/15/2015	1880	Cleaned drill site and removed some equipment
+NO 15/9-F-14 H	11/18/2015	1880	Set NQ rods to 1, 866 ft,  poured 100 gal of water down NQ rods to clean and flush pipe. 
+NO 15/9-F-14 H	11/23/2015	1880	Geophysical loggingâ€”Source and temperature logs  
+NO 15/9-F-14 H	11/24/2015	1880	Poured 275 gal down NQ rods WL before adding water was 447.16 ft after water 437.90 ftâ€”30 minutes later at 439.30 ft. Water level had been around 531 ft when well was 840 ft deep
+NO 15/9-F-14 H	5/31/2016	1880	Temperature log inside NQ rods to 1, 855 ft 

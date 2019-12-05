@@ -27,8 +27,11 @@ echo "============================="
 echo "===== Running containers====="
 echo "============================="
 docker run -d -h bigdawg-postgres-catalog --net=bigdawg -p 5400:5400 -p 8080:8080 -e "PGPORT=5400" -e "BDHOST=bigdawg-postgres-catalog" --name bigdawg-postgres-catalog bigdawg/postgres
-docker run -d -h bigdawg-postgres-data1 --net=bigdawg -p 5401:5401 -e "PGPORT=5401" -e "BDHOST=bigdawg-postgres-data1" --name bigdawg-postgres-data1 bigdawg/postgres
-docker run -d -h bigdawg-postgres-data2 --net=bigdawg -p 5402:5402 -e "PGPORT=5402" -e "BDHOST=bigdawg-postgres-data2" --name bigdawg-postgres-data2 bigdawg/postgres
+
+docker run -d -h bigdawg-postgres-data1 --net=bigdawg -p 5401:5401 -v $HOME/pgdata:/var/lib/postgresql/data -e "PGPORT=5401" -e "BDHOST=bigdawg-postgres-data1" -e POSTGRES_DB=welllogs --name bigdawg-postgres-data1 bigdawg/postgres
+
+docker run -d -h bigdawg-postgres-data2 --net=bigdawg -p 5402:5402 -v $HOME/pgdata:/var/lib/postgresql/data -e "PGPORT=5402" -e "BDHOST=bigdawg-postgres-data2" -e POSTGRES_DB=welllogs --name bigdawg-postgres-data2 bigdawg/postgres
+
 docker run -d -h bigdawg-scidb-data --net=bigdawg -p 1239:1239 --name bigdawg-scidb-data bigdawg/scidb
 
 # Note about accumulo hostnames: 
@@ -97,41 +100,6 @@ echo "Accumulo Monitor is at http://master.docker.local:50095"
 echo -e "Login to accumulo with \n\t docker exec -u accumulo -it ${container_name}-tserver0 /usr/lib/accumulo/bin/accumulo shell -u bigdawg -p bigdawg"
 echo
 
-
-echo
-echo "========================"
-echo "===== Loading data ====="
-echo "========================"
-
-# Download the mimic2 dataset
-if [ -f "mimic2_flatfiles.tar.gz" ]
-then
-       echo "Mimic data already exists. Skipping download"
-else
-       echo "Downloading the mimic2 dataset"
-       curl -o mimic2_flatfiles.tar.gz --create-dirs https://archive.physionet.org/mimic2/demo/mimic2_flatfiles.tar.gz
-fi
-
-# Download mimic2 waveform data
-if [ -f "a40001_000001.dat" ]
-then
-       echo "Mimic waveform data already exists. Skipping download"
-else
-       echo "Downloading the mimic2 waveform data"
-       curl -o a40001_000001.dat --create-dirs https://physionet.org/physiobank/database/mimic2db/a40001/a40001_000001.dat
-       curl -o a40001_000001.hea --create-dirs https://physionet.org/physiobank/database/mimic2db/a40001/a40001_000001.hea
-fi
-
-# Download mimic2 logs
-# https://physionet.org/physiobank/database/mimic2cdb-ps/
-if [ -f "s00318.txt" ]
-then
-       echo "Mimic log data already exists. Skipping download"
-else
-       echo "Downloading the mimic2 log data"
-       curl -o s00318.txt --create-dirs https://physionet.org/physiobank/database/mimic2cdb-ps/s00318/s00318.txt
-fi
-
 # postgres-catalog
 docker exec -u root bigdawg-postgres-catalog mkdir -p /src/main/resources
 docker cp ../src/main/resources/PostgresParserTerms.csv bigdawg-postgres-catalog:/src/main/resources
@@ -139,15 +107,18 @@ docker cp ../src/main/resources/SciDBParserTerms.csv bigdawg-postgres-catalog:/s
 docker cp cluster_setup/postgres-catalog/bdsetup bigdawg-postgres-catalog:/
 docker exec bigdawg-postgres-catalog /bdsetup/setup.sh
 
+# postgres-data
+#docker cp cluster_setup/postgres-data1/bdsetup bigdawg-postgres-data1:/
+#docker cp /well-data/prod.csv bigdawg-postgres-data1:/bdsetup/
+#docker exec --user=root bigdawg-postgres-data1 /bdsetup/setup.sh
+
 # postgres-data1
 docker cp cluster_setup/postgres-data1/bdsetup bigdawg-postgres-data1:/
-docker cp mimic2_flatfiles.tar.gz bigdawg-postgres-data1:/bdsetup/
-docker exec --user=root bigdawg-postgres-data1 /bdsetup/setup.sh
+docker exec bigdawg-postgres-data1 /bdsetup/setup.sh
 
-# postgres-data2
+# postgres-data1
 docker cp cluster_setup/postgres-data2/bdsetup bigdawg-postgres-data2:/
-docker cp mimic2_flatfiles.tar.gz bigdawg-postgres-data2:/bdsetup/
-docker exec --user=root bigdawg-postgres-data2 /bdsetup/setup.sh
+docker exec bigdawg-postgres-data2 /bdsetup/setup.sh
 
 # scidb
 docker cp cluster_setup/scidb-data/bdsetup bigdawg-scidb-data:/home/scidb/
@@ -157,7 +128,8 @@ docker exec bigdawg-scidb-data /home/scidb/bdsetup/setup.sh
 
 # accumulo
 docker cp cluster_setup/accumulo-data/bdsetup bigdawg-accumulo-zookeeper:/
-docker cp s00318.txt bigdawg-accumulo-zookeeper:/bdsetup/
+docker cp acculog.txt bigdawg-accumulo-zookeeper:/bdsetup/
+docker cp drilllogs.txt bigdawg-accumulo-zookeeper:/bdsetup/
 docker exec bigdawg-accumulo-zookeeper python /bdsetup/setup.py
 
 echo
@@ -169,6 +141,8 @@ docker exec -d bigdawg-accumulo-zookeeper java -classpath "istc.bigdawg-1.0-SNAP
 docker exec -d bigdawg-postgres-data1 java -classpath "istc.bigdawg-1.0-SNAPSHOT-jar-with-dependencies.jar" istc.bigdawg.Main bigdawg-postgres-data1
 docker exec -d bigdawg-postgres-data2 java -classpath "istc.bigdawg-1.0-SNAPSHOT-jar-with-dependencies.jar" istc.bigdawg.Main bigdawg-postgres-data2
 docker exec -it bigdawg-postgres-catalog java -classpath "istc.bigdawg-1.0-SNAPSHOT-jar-with-dependencies.jar" istc.bigdawg.Main bigdawg-postgres-catalog
+
+
 
 echo
 echo "================="
